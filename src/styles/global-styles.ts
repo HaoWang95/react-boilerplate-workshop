@@ -26,4 +26,10 @@ export const GlobalStyle = createGlobalStyle`
     font-family: inherit;
     font-size: inherit;
   }
+  h1,
+  
+  h2 {
+    color: deepskyblue;
+    text-align: center;
+  }
 `;
